@@ -13,3 +13,5 @@
 - [近畿大学](https://www.kindai.ac.jp/)
 - [産業理工学部](https://www.kindai.ac.jp/hose/)
 - [情報学科](https://www.kindai.ac.jp/hose/department/information/)
+
+[これまでの研究テーマのワードクラウド](word_cloud.png)
