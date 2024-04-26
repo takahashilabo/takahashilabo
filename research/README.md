@@ -81,13 +81,13 @@
 - 田中開, Microsoft HoloLensを用いた自動車の商品説明アプリの開発（[動画](https://youtu.be/5JHz7yEbkUg)）
 
 ##　2016年 B4（10期生）
-- 杠篤徳，サイクリストのためのダイジェスト映像自動編集システム（[動画](https://www.youtube.com/watch?v=LUYfxwd066s)）
-- 城戸明日香，Raspberry Piを用いた駆け込み乗車警告システム
-- 中野優希，瞬きによる遠隔スイッチングシステム（[動画](https://youtu.be/-mKCdWLljrg)）
-- 惣川裕介，ARマーカーを用いた手書き支援システム
-- 原田晃輔，太宰府政庁仮想体験システム
-- 山内莉奈，ハーフミラーを用いた情報提示システム（[動画](https://www.youtube.com/watch?v=TGlLNRIm-ds)）
-- 江原祐真，レースゲームのコース自動生成システム
+- 杠篤徳, サイクリストのためのダイジェスト映像自動編集システム（[動画](https://www.youtube.com/watch?v=LUYfxwd066s)）
+- 城戸明日香, Raspberry Piを用いた駆け込み乗車警告システム
+- 中野優希, 瞬きによる遠隔スイッチングシステム（[動画](https://youtu.be/-mKCdWLljrg)）
+- 惣川裕介, ARマーカーを用いた手書き支援システム
+- 原田晃輔, 太宰府政庁仮想体験システム
+- 山内莉奈, ハーフミラーを用いた情報提示システム（[動画](https://www.youtube.com/watch?v=TGlLNRIm-ds)）
+- 江原祐真, レースゲームのコース自動生成システム
 
 ## 2015年 B4（9期生）
 - 稗田啓人, レンジセンサーを用いた侵入検知システム（[動画](https://www.youtube.com/watch?v=r9ZaEV-H7NA)）
