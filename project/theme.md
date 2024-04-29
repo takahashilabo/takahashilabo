@@ -4,6 +4,7 @@
 
 |Title|Works|Year|
 |----|----|----|
+|[Maker Fair Kyoto 2024・DENWAゲーム](https://makezine.jp/event/makers-mfk2024/m0068/)|[![](https://img.youtube.com/vi/1m5NTtno6II/1.jpg)](https://www.youtube.com/watch?v=1m5NTtno6II)|2024|
 |[Ogaki Mini Maker Fair 2022・スクラッチで小型ロボットをプログラムしてドットを消す時間を競うゲーム](https://www.iamas.ac.jp/ommf2022/maker/takahashi-labo/)|[![](https://img.youtube.com/vi/VxrqA5_2OHI/1.jpg)](https://www.youtube.com/watch?v=VxrqA5_2OHI)|2022|
 | [つくるとVol.5・RomoをScratchで操作してドットを消すゲーム](2018/tukurutov5.md)|[![](https://img.youtube.com/vi/WXUWAiqOgV8/1.jpg)](https://www.youtube.com/watch?v=WXUWAiqOgV8)|2018|
 |[つくるとVol.4・Splashooter2017](2017/tukurutov4.md)|[![](https://img.youtube.com/vi/H_EiqTw3-FE/1.jpg)](https://www.youtube.com/watch?v=H_EiqTw3-FE)|2017|
