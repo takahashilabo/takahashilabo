@@ -4,10 +4,10 @@
 - 生産現場における最適化およびシミュレーションシステム
 
 ## 研究
-- [テーマ一覧](research/theme.md)（[全タイトル](research/README.md)）
+- [テーマ一覧](research/theme.md)（[時系列](research/README.md)）
 
 ## プロジェクト
-- [テーマ一覧](project/theme.md)（[全タイトル](project/README.md)）
+- [テーマ一覧](project/theme.md)（[時系列](project/README.md)）
 
 ## Links
 - [近畿大学](https://www.kindai.ac.jp/)
