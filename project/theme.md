@@ -7,7 +7,7 @@
 
 |Title|Works|Year|
 |----|----|----|
-|[つくるとVol.6・](https://vol6.tsukuruto.net/)|[![](https://img.youtube.com/vi/hvFaqpJCsRo/1.jpg)](https://www.youtube.com/watch?v=hvFaqpJCsRo)|2024|
+|[つくるとVol.6・Momo vs Midori Food Fight Game](https://vol6.tsukuruto.net/)|[![](https://img.youtube.com/vi/hvFaqpJCsRo/1.jpg)](https://www.youtube.com/watch?v=hvFaqpJCsRo)|2024|
 |[Maker Fair Kyoto 2024・DENWAゲーム](https://makezine.jp/event/makers-mfk2024/m0068/)|[![](https://img.youtube.com/vi/1m5NTtno6II/1.jpg)](https://www.youtube.com/watch?v=1m5NTtno6II)|2024|
 |[Ogaki Mini Maker Fair 2022・スクラッチで小型ロボットをプログラムしてドットを消す時間を競うゲーム](https://www.iamas.ac.jp/ommf2022/maker/takahashi-labo/)|[![](https://img.youtube.com/vi/VxrqA5_2OHI/1.jpg)](https://www.youtube.com/watch?v=VxrqA5_2OHI)|2022|
 | [つくるとVol.5・RomoをScratchで操作してドットを消すゲーム](2018/tukurutov5.md)|[![](https://img.youtube.com/vi/WXUWAiqOgV8/1.jpg)](https://www.youtube.com/watch?v=WXUWAiqOgV8)|2018|
@@ -19,6 +19,7 @@
 
 |Title|Works|Year|
 |----|----|----|
+|[マイ・美術館](https://youtu.be/R6cVs4d_vSA)|<img src="i/27.png" width="150">|2024|
 |[プラレール](https://www.youtube.com/watch?v=nFdYigtfWv4)|<img src="i/11.png" width="150">|2023|
 |[テルくま](https://odabi.libweb.jp/news/2022/20230418002.html)|<img src="i/12.png" width="150">|2022|
 巣箱を作ろう（[西日本新聞](https://www.nishinippon.co.jp/kyushu_event/7523/)）（[イベントの様子](https://www.city.kama.lg.jp/site/odahiroki/23712.html)）|<img src="13.png" width="150">||2021|

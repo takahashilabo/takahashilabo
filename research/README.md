@@ -1,6 +1,17 @@
 # 研究
 本研究室で行ってきた全タイトルを紹介します。高橋の文献は[researchmap](https://researchmap.jp/ke_takahashi/)にて公開しています。
 
+## 2024年 B4（18期生）
+- 山本澪, Scoris：黄金比度スコアを用いた人物撮影支援システムの開発
+- 皆倉魁斗, Light Particles Forest : 光粒子の表現を用いた V R ゲームの開発（[動画](https://youtube.com/shorts/C870zpG5UnU)）
+- 高澤伊吹, VoxelBuilder: ボクセルを使った VR 3D モデリングアプリの開発（[動画](https://youtu.be/NJUfhoyFJQo)）
+- 村上悠花, WebRTC を活用した多地点映像配信システムの開発（[動画](https://youtu.be/FSwlbJ_ikWU)）
+- 藤原陽, 仮想体験型屋内散策システム
+- 比嘉絃人, 格闘ゲームのコマンド技に特化したトレーニングアプリの開発（[動画](https://youtu.be/f7O16zLuxNM)）
+- 近藤聖, 超入門者のためのバドミントン練習支援システム（[動画](https://youtu.be/5EtA7aGQqLI)）
+- 亀尾光, Comedy Evaluator：openSMILE を用いたお笑い採点システム
+- 長田知也, 作問学習を活用したプログラミング学習支援サービスの開発 
+
 ## 2023年 M2
 - 藤田諒, リダイレクテッドウォーキングの手法を用いたVRランニングシステムの開発（[動画](https://youtu.be/lkMe_OQKZho)）
 
