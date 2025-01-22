@@ -1,5 +1,14 @@
 研究以外の本研究室の活動を紹介します。本学科では卒業研究配属前に各ゼミにわかれて活動する少人数授業があります。１年次には基礎ゼミ（半期）、２年次は情報学序論（半期）、３年次では情報学プロジェクト（通年）です。これらの活動を紹介します。また、外部の展示会やイベントにも積極的に参加しています。それらの活動もご紹介します。
 
+# 2024年
+- 情報学プロジェクト・３年次（Unityゲーム開発＋オリジナルコントローラ開発）
+  - [隕石ぶっこわしゲーム](https://youtu.be/4hbZ4zcoAz8)
+  - [ドラムトレーナー](https://youtu.be/KlWBc8DVH6U)
+  - [FLUFFY BALLON](https://youtu.be/g6b7UP-Fsqo)
+  - [UNITYちゃんRUNゲーム](https://youtu.be/Smk7dAsSzQg)
+  - [ぐるぐる◎ポーションマスター](https://youtu.be/sBh6GzepIeA)
+- [織田廣喜美術館・教育イベント（マイ・美術館）](https://youtu.be/R6cVs4d_vSA)
+
 # 2023年
 - 情報学プロジェクト・３年次（Unityゲーム開発＋オリジナルコントローラ開発）
   - [電話系防衛ゲームClaimer](https://www.youtube.com/watch?v=1m5NTtno6II)
