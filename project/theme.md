@@ -19,10 +19,10 @@
 
 |Title|Works|Year|
 |----|----|----|
-|[マイ・美術館](https://youtu.be/R6cVs4d_vSA)|<img src="i/27.png" width="150">|2024|
+|[マイ・美術館](https://youtu.be/R6cVs4d_vSA)|<img src="i/27.jpg" width="150">|2024|
 |[プラレール](https://www.youtube.com/watch?v=nFdYigtfWv4)|<img src="i/11.png" width="150">|2023|
 |[テルくま](https://odabi.libweb.jp/news/2022/20230418002.html)|<img src="i/12.png" width="150">|2022|
-巣箱を作ろう（[西日本新聞](https://www.nishinippon.co.jp/kyushu_event/7523/)）（[イベントの様子](https://www.city.kama.lg.jp/site/odahiroki/23712.html)）|<img src="13.png" width="150">||2021|
+巣箱を作ろう（[西日本新聞](https://www.nishinippon.co.jp/kyushu_event/7523/)）（[イベントの様子](https://www.city.kama.lg.jp/site/odahiroki/23712.html)）|<img src="i/13.png" width="150">||2021|
 |[ようこそ、ぼくらのKAMA妖怪大図鑑へ](2019/odabi2019.md)|<img src="i/14.png" width="150">|2019|
 |[ようこそ、ぼくらのKAMA CITYへ ](2018/odabi2018.md)|<img src="i/15.png" width="150">|2018|
 |[大学生のお兄さん、お姉さんと一緒に作ろう！！ ](2017/odabi2017.md)|<img src="i/16.png" width="150">|2017|
