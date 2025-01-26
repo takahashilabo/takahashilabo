@@ -5,7 +5,7 @@
 | |Author|Title|Year|
 |----|----|----|----|
 |[![](https://img.youtube.com/vi/5EtA7aGQqLI/1.jpg)](https://www.youtube.com/watch?v=5EtA7aGQqLI)|近藤聖|超入門者のためのバドミントン練習支援システム ![](vr.png)|2024|
-|[![](https://img.youtube.com/vi/f7O16zLuxNM/1.jpg)](https://www.youtube.com/watch?v=f7O16zLuxNM)|比嘉絃人|格闘ゲームのコマンド技に特化したトレーニングアプリの開発 ![](vr.png)|2024|
+|[![](https://img.youtube.com/vi/f7O16zLuxNM/1.jpg)](https://www.youtube.com/watch?v=f7O16zLuxNM)|比嘉絃人|格闘ゲームのコマンド技に特化したトレーニングアプリの開発|2024|
 |[![](https://img.youtube.com/vi/lkMe_OQKZho/1.jpg)](https://www.youtube.com/watch?v=lkMe_OQKZho)|藤田諒|リダイレクテッドウォーキングの手法を用いたVRランニングシステムの開発 ![](vr.png)|2023|
 |[![](https://img.youtube.com/vi/zbzpWNNnESo/1.jpg)](https://www.youtube.com/watch?v=zbzpWNNnESo)|松本桃佳|ダンスデジタル採点アプリケーションの開発|2023|
 |[![](https://img.youtube.com/vi/HzGJR33HX18/1.jpg)](https://www.youtube.com/watch?v=HzGJR33HX18)|森山智也|ペーパードライバーのためのVR運転シミュレータの開発 ![](vr.png)|2021|
@@ -30,7 +30,7 @@
 ## クリエイター支援システム
 | |Author|Title|Year|
 |----|----|----|----|
-|[![](https://img.youtube.com/vi/NJUfhoyFJQo/1.jpg)](https://www.youtube.com/watch?v=NJUfhoyFJQo)|高澤伊吹|VoxelBuilder: ボクセルを使った VR 3D モデリングアプリの開発|2024|
+|[![](https://img.youtube.com/vi/NJUfhoyFJQo/1.jpg)](https://www.youtube.com/watch?v=NJUfhoyFJQo)|高澤伊吹|VoxelBuilder: ボクセルを使った VR 3D モデリングアプリの開発 ![](vr.png)|2024|
 |[![](https://img.youtube.com/vi/Eb9CuKb3PJM/1.jpg)](https://www.youtube.com/watch?v=Eb9CuKb3PJM)|泉帆乃里|ぬいTube Creator：ぬいぐるみを用いた動画配信環境の提案|2023|
 |[![](https://img.youtube.com/vi/hxnEtjKYjlg/1.jpg)](https://www.youtube.com/watch?v=hxnEtjKYjlg)|入江安宥|バーチャルライブ演出支援VRアプリの開発 ![](vr.png)|2022|
 |[![](https://img.youtube.com/vi/hyvWirP4Rgw/1.jpg)](https://www.youtube.com/watch?v=hyvWirP4Rgw)|香月宏仁|After Effectsで水彩画のシネマグラフの作成|2021|
