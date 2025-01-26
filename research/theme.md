@@ -48,6 +48,7 @@
 ## 作業支援システム
 | |Author|Title|Year|
 |----|----|----|----|
+|[![](https://img.youtube.com/vi/sBlNL-Khz1w/1.jpg)](https://youtu.be/sBlNL-Khz1w)|山本澪|Scoris：黄金比度スコアを用いた人物撮影支援システムの開発|2024|
 |[![](https://img.youtube.com/vi/S43gc8SNFbg/1.jpg)](https://www.youtube.com/watch?v=S43gc8SNFbg)|新谷祥吾|MRフセン：空間上に手書きメモを可能にするアプリケーションの開発 ![](vr.png)|2021|
 |[![](https://img.youtube.com/vi/Ow0qtkEARHg/1.jpg)](https://www.youtube.com/watch?v=Ow0qtkEARHg)|鮫島弘樹|ARKitを用いた家具の配置シュミレータ ![](vr.png)|2018|
 |[![](https://img.youtube.com/vi/5JHz7yEbkUg/1.jpg)](https://www.youtube.com/watch?v=5JHz7yEbkUg)|田中開|Microsoft HoloLensを用いた自動車の商品説明アプリの開発 ![](vr.png)|2017|

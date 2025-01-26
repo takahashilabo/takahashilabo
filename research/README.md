@@ -2,7 +2,7 @@
 本研究室で行ってきた全タイトルを紹介します。高橋の文献は[researchmap](https://researchmap.jp/ke_takahashi/)にて公開しています。
 
 ## 2024年 B4（18期生）
-- 山本澪, Scoris：黄金比度スコアを用いた人物撮影支援システムの開発
+- 山本澪, Scoris：黄金比度スコアを用いた人物撮影支援システムの開発（[動画](https://youtu.be/sBlNL-Khz1w)）
 - 皆倉魁斗, Light Particles Forest : 光粒子の表現を用いた V R ゲームの開発（[動画](https://youtube.com/shorts/C870zpG5UnU)）
 - 高澤伊吹, VoxelBuilder: ボクセルを使った VR 3D モデリングアプリの開発（[動画](https://youtu.be/NJUfhoyFJQo)）
 - 村上悠花, WebRTC を活用した多地点映像配信システムの開発（[動画](https://youtu.be/FSwlbJ_ikWU)）
