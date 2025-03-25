@@ -2,9 +2,6 @@
 
 # Maker系イベント
 
-つくるとVol.5・RomoをScratchで操作してドットを消すゲーム
-
-
 |Title|Works|Year|
 |----|----|----|
 |[つくるとVol.6・Momo vs Midori Food Fight Game](https://vol6.tsukuruto.net/)|[![](https://img.youtube.com/vi/hvFaqpJCsRo/1.jpg)](https://www.youtube.com/watch?v=hvFaqpJCsRo)|2024|
