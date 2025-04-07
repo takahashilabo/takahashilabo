@@ -91,7 +91,7 @@
 - 小西啓太, フットサルの試合結果管理システムの開発
 - 田中開, Microsoft HoloLensを用いた自動車の商品説明アプリの開発（[動画](https://youtu.be/5JHz7yEbkUg)）
 
-##　2016年 B4（10期生）
+## 2016年 B4（10期生）
 - 杠篤徳, サイクリストのためのダイジェスト映像自動編集システム（[動画](https://www.youtube.com/watch?v=LUYfxwd066s)）
 - 城戸明日香, Raspberry Piを用いた駆け込み乗車警告システム
 - 中野優希, 瞬きによる遠隔スイッチングシステム（[動画](https://youtu.be/-mKCdWLljrg)）
