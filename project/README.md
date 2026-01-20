@@ -6,7 +6,7 @@
   - [爆弾解除ゲーム](https://youtu.be/2FWFf5983sI)
   - [クイズクラッシュゲーム](https://youtu.be/Kh1CszOikT4)
   - [チャリ走EX](https://youtu.be/g3eIUMU8h3w)
-- [情報学概論・２年次（Unityゲームアプリ開発）](2025/joron.md)
+- [情報学序論・２年次（Unityゲームアプリ開発）](2025/joron.md)
 - [織田廣喜美術館・教育イベント（オダビ・ブレインロッド）](https://youtu.be/U7WwvuFQCCw)
 
 # 2024年
