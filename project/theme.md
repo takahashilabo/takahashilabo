@@ -16,6 +16,7 @@
 
 |Title|Works|Year|
 |----|----|----|
+|[オダビ・ブレインロット](https://youtu.be/U7WwvuFQCCw)|<img src="i/28.jpg" width="150">|2025|
 |[マイ・美術館](https://youtu.be/R6cVs4d_vSA)|<img src="i/27.jpg" width="150">|2024|
 |[プラレール](https://www.youtube.com/watch?v=nFdYigtfWv4)|<img src="i/11.png" width="150">|2023|
 |[テルくま](https://odabi.libweb.jp/news/2022/20230418002.html)|<img src="i/12.png" width="150">|2022|
@@ -29,6 +30,7 @@
 
 |Title|Works|Year|
 |----|----|----|
+|Unityゲーム開発＋オリジナルコントローラ開発|[取り戻せ！盗品レスキュー大作戦！](https://youtu.be/tyQ8DVQRLqw) [爆弾解除ゲーム](https://youtu.be/2FWFf5983sI) [クイズクラッシュゲーム](https://youtu.be/Kh1CszOikT4) [チャリ走EX](https://youtu.be/g3eIUMU8h3w)|2025|
 |Unityゲーム開発＋オリジナルコントローラ開発|[隕石ぶっこわしゲーム](https://youtu.be/4hbZ4zcoAz8)、[ドラムトレーナー](https://youtu.be/KlWBc8DVH6U)、[FLUFFY BALLON](https://youtu.be/g6b7UP-Fsqo)、[UNITYちゃんRUNゲーム](https://youtu.be/JSQFVcQGDTY)、[ぐるぐる◎ポーションマスター](https://youtu.be/sBh6GzepIeA)|2024|
 |Unityゲーム開発＋オリジナルコントローラ開発|[電話系防衛ゲームClaimer](https://www.youtube.com/watch?v=1m5NTtno6II)、[解雇の達人](https://www.youtube.com/watch?v=xKkssponnM4)、[野球天国](https://www.youtube.com/watch?v=rl9N9Hn1-yU)、[ピコハン最強決定戦](https://www.youtube.com/watch?v=s0cwDnsV4TY)|2023|
 |Unityゲーム開発＋オリジナルコントローラ開発|[ホームカーディアン（自宅警備員）](https://www.youtube.com/watch?v=hcDUWfrKsWs)、[キラキラ☆アイドル応援プロジェクト](https://www.youtube.com/watch?v=mlr1fxmO9Cw)、zott（[全体説明](https://www.youtube.com/watch?v=dqe75_FvggI)）（[操作説明](https://www.youtube.com/watch?v=gOQ6hHGLEQ8)）|2022|
@@ -50,6 +52,8 @@
 
 |Title|Works|Year|
 |----|----|----|
+|[Unityゲームアプリ開発](2025/joron.md)|<img src="i/29.jpg" width="200">|2025|
+|ゲームで学ぶJavaScript入門||2024|
 |[ゲームで学ぶJavaScript入門](2023/joron.md)|<img src="i/1.png" width="200">|2023|
 |AWS認定クラウドプラクティショナー勉強会|<img src="i/2.png" width="200">|2022|
 |プログラミングコンテストチャレンジブック輪読会|<img src="i/3.jpg" width="100">|2021|

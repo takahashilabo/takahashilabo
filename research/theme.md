@@ -4,6 +4,8 @@
 ## トレーニング支援システム
 | |Author|Title|Year|
 |----|----|----|----|
+|[![](https://img.youtube.com/vi/5EtA7aGQqLI/1.jpg)](https://www.youtube.com/watch?v=5EtA7aGQqLI)|光野達哉|手指の骨格認識機能を用いた後だしじゃんけんアプリの開発 ![](vr.png)|2025|
+|[![](https://img.youtube.com/vi/5EtA7aGQqLI/1.jpg)](https://www.youtube.com/watch?v=5EtA7aGQqLI)|勝野翔|VR流鏑馬トレーニングアプリケーションの開発 ![](vr.png)|2025|
 |[![](https://img.youtube.com/vi/5EtA7aGQqLI/1.jpg)](https://www.youtube.com/watch?v=5EtA7aGQqLI)|近藤聖|超入門者のためのバドミントン練習支援システム ![](vr.png)|2024|
 |[![](https://img.youtube.com/vi/f7O16zLuxNM/1.jpg)](https://www.youtube.com/watch?v=f7O16zLuxNM)|比嘉絃人|格闘ゲームのコマンド技に特化したトレーニングアプリの開発|2024|
 |[![](https://img.youtube.com/vi/lkMe_OQKZho/1.jpg)](https://www.youtube.com/watch?v=lkMe_OQKZho)|藤田諒|リダイレクテッドウォーキングの手法を用いたVRランニングシステムの開発 ![](vr.png)|2023|
@@ -48,6 +50,7 @@
 ## 作業支援システム
 | |Author|Title|Year|
 |----|----|----|----|
+|[![](https://img.youtube.com/vi/sBlNL-Khz1w/1.jpg)](https://youtu.be/sBlNL-Khz1w)|川﨑梨央|服装履歴を活用したコーディネート提案システムの開発|2025|
 |[![](https://img.youtube.com/vi/sBlNL-Khz1w/1.jpg)](https://youtu.be/sBlNL-Khz1w)|山本澪|Scoris：黄金比度スコアを用いた人物撮影支援システムの開発|2024|
 |[![](https://img.youtube.com/vi/S43gc8SNFbg/1.jpg)](https://www.youtube.com/watch?v=S43gc8SNFbg)|新谷祥吾|MRフセン：空間上に手書きメモを可能にするアプリケーションの開発 ![](vr.png)|2021|
 |[![](https://img.youtube.com/vi/Ow0qtkEARHg/1.jpg)](https://www.youtube.com/watch?v=Ow0qtkEARHg)|鮫島弘樹|ARKitを用いた家具の配置シュミレータ ![](vr.png)|2018|
@@ -81,6 +84,7 @@
 ## ロボット応用システム
 | |Author|Title|Year|
 |----|----|----|----|
+|[![](https://img.youtube.com/vi/rv4mPDYl9ec/1.jpg)](https://www.youtube.com/watch?v=rv4mPDYl9ec)|吉田清哉|ROS2 と Gazebo を用いた転倒防止ロボット歩行車のシミュレーション環境の構築|2025|
 |[![](https://img.youtube.com/vi/rv4mPDYl9ec/1.jpg)](https://www.youtube.com/watch?v=rv4mPDYl9ec)|民輪太洋|ROS2と移動ロボットを用いた屋内巡回ロボットの開発|2023|
 |[![](https://img.youtube.com/vi/490Ygr1DCJU/1.jpg)](https://www.youtube.com/watch?v=490Ygr1DCJU)|森あずさ|利他的行動を利用した弱い通知システムの提案|2022|
 |[![](https://img.youtube.com/vi/HAJLZVi4qDo/1.jpg)](https://www.youtube.com/watch?v=HAJLZVi4qDo)|馬場大誌|掃除ロボットを用いた汚部屋整頓点検システム|2017|
@@ -91,6 +95,7 @@
 ## デジタルガジェット
 | |Author|Title|Year|
 |----|----|----|----|
+|[![](https://img.youtube.com/vi/Y5y2anuji2w/1.jpg)](https://www.youtube.com/watch?v=Y5y2anuji2w)|松井美月| MediaPipe を活用したまばたき視線解析による集中度可視化システムの開発|2025|
 |[![](https://img.youtube.com/vi/Y5y2anuji2w/1.jpg)](https://www.youtube.com/watch?v=Y5y2anuji2w)|吉田匡佑| Pixel Cube: キューブ型ディスプレイ玩具の開発|2023|
 |[![](https://img.youtube.com/vi/fx7UkYwssd8/1.jpg)](https://www.youtube.com/watch?v=fx7UkYwssd8)|市丸航平| 超音波センサーを用いたVDT作業時の姿勢警告システムの開発|2019|
 |[![](https://img.youtube.com/vi/7ZtNTvap6bM/1.jpg)](https://www.youtube.com/watch?v=7ZtNTvap6bM)|村井奈美| Smart Hanger:洋服が着て欲しいとアピールしてくれるハンガー|2018|
@@ -104,6 +109,7 @@
 ## センシング応用システム
 | |Author|Title|Year|
 |----|----|----|----|
+|[![](https://img.youtube.com/vi/BnnZLa0jJuw/1.jpg)](https://www.youtube.com/watch?v=BnnZLa0jJuw)|田崎晴音|歩行者のための後方接近物体リアルタイム検出方式の提案と評価|2025|
 |[![](https://img.youtube.com/vi/BnnZLa0jJuw/1.jpg)](https://www.youtube.com/watch?v=BnnZLa0jJuw)|宮田和茂|LiDARを用いたタッチパネルシステムの開発|2019|
 |[![](https://img.youtube.com/vi/-mKCdWLljrg/1.jpg)](https://www.youtube.com/watch?v=-mKCdWLljrg)|中野優希|瞬きによる遠隔スイッチングシステム|2016|
 |[![](https://img.youtube.com/vi/r9ZaEV-H7NA/1.jpg)](https://www.youtube.com/watch?v=r9ZaEV-H7NA)|稗田啓人|レンジセンサーを用いた侵入検知システム|2015|
@@ -114,6 +120,7 @@
 ## プロジェクションマッピング応用
 | |Author|Title|Year|
 |----|----|----|----|
+|[![](https://img.youtube.com/vi/7BGAfJswNm4/1.jpg)](https://www.youtube.com/watch?v=7BGAfJswNm4)|竹原遼真| 音声認識と画像処理を用いた TCG リモート対戦支援システム|2025|
 |[![](https://img.youtube.com/vi/7BGAfJswNm4/1.jpg)](https://www.youtube.com/watch?v=7BGAfJswNm4)|松尾光隼| プロジェクションマッピングによるピアノ演奏装飾システム|2019|
 
 ## ドローン応用
