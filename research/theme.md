@@ -109,7 +109,7 @@
 ## センシング応用システム
 | |Author|Title|Year|
 |----|----|----|----|
-|[![](i/cs.png)]()|田崎晴音|歩行者のための後方接近物体リアルタイム検出方式の提案と評価|2025|
+|[![](https://img.youtube.com/vi/u7jHI2LGyuk/1.jpg)](https://youtube.com/shorts/u7jHI2LGyuk)|田崎晴音|歩行者のための後方接近物体リアルタイム検出方式の提案と評価|2025|
 |[![](https://img.youtube.com/vi/BnnZLa0jJuw/1.jpg)](https://www.youtube.com/watch?v=BnnZLa0jJuw)|宮田和茂|LiDARを用いたタッチパネルシステムの開発|2019|
 |[![](https://img.youtube.com/vi/-mKCdWLljrg/1.jpg)](https://www.youtube.com/watch?v=-mKCdWLljrg)|中野優希|瞬きによる遠隔スイッチングシステム|2016|
 |[![](https://img.youtube.com/vi/r9ZaEV-H7NA/1.jpg)](https://www.youtube.com/watch?v=r9ZaEV-H7NA)|稗田啓人|レンジセンサーを用いた侵入検知システム|2015|
