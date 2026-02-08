@@ -119,7 +119,7 @@
 ## プロジェクションマッピング応用
 | |Author|Title|Year|
 |----|----|----|----|
-|[![](i/cs.png)]()|竹原遼真| 音声認識と画像処理を用いた TCG リモート対戦支援システム|2025|
+|[![](https://img.youtube.com/vi/DgOIPz9w9mA/1.jpg)](https://youtu.be/DgOIPz9w9mA)|竹原遼真| 音声認識と画像処理を用いた TCG リモート対戦支援システム|2025|
 |[![](https://img.youtube.com/vi/7BGAfJswNm4/1.jpg)](https://www.youtube.com/watch?v=7BGAfJswNm4)|松尾光隼| プロジェクションマッピングによるピアノ演奏装飾システム|2019|
 
 ## ドローン応用
