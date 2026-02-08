@@ -50,7 +50,6 @@
 ## 作業支援システム
 | |Author|Title|Year|
 |----|----|----|----|
-|[![](i/cs.png)]()|川﨑梨央|服装履歴を活用したコーディネート提案システムの開発|2025|
 |[![](https://img.youtube.com/vi/sBlNL-Khz1w/1.jpg)](https://youtu.be/sBlNL-Khz1w)|山本澪|Scoris：黄金比度スコアを用いた人物撮影支援システムの開発|2024|
 |[![](https://img.youtube.com/vi/S43gc8SNFbg/1.jpg)](https://www.youtube.com/watch?v=S43gc8SNFbg)|新谷祥吾|MRフセン：空間上に手書きメモを可能にするアプリケーションの開発 ![](vr.png)|2021|
 |[![](https://img.youtube.com/vi/Ow0qtkEARHg/1.jpg)](https://www.youtube.com/watch?v=Ow0qtkEARHg)|鮫島弘樹|ARKitを用いた家具の配置シュミレータ ![](vr.png)|2018|
