@@ -4,7 +4,7 @@
 ## トレーニング支援システム
 | |Author|Title|Year|
 |----|----|----|----|
-|[![]([i/cs.png](https://img.youtube.com/vi/OuOTeu0EpiI/1.jpg))](https://www.youtube.com/watch?v=OuOTeu0EpiI)|光野達哉|手指の骨格認識機能を用いた後だしじゃんけんアプリの開発|2025|
+|[![](https://img.youtube.com/vi/OuOTeu0EpiI/1.jpg)](https://www.youtube.com/watch?v=OuOTeu0EpiI)|光野達哉|手指の骨格認識機能を用いた後だしじゃんけんアプリの開発|2025|
 |[![](i/cs.png)]()|勝野翔|VR流鏑馬トレーニングアプリケーションの開発 ![](vr.png)|2025|
 |[![](https://img.youtube.com/vi/5EtA7aGQqLI/1.jpg)](https://www.youtube.com/watch?v=5EtA7aGQqLI)|近藤聖|超入門者のためのバドミントン練習支援システム ![](vr.png)|2024|
 |[![](https://img.youtube.com/vi/f7O16zLuxNM/1.jpg)](https://www.youtube.com/watch?v=f7O16zLuxNM)|比嘉絃人|格闘ゲームのコマンド技に特化したトレーニングアプリの開発|2024|
