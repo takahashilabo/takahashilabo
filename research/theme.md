@@ -83,7 +83,8 @@
 ## ロボット応用システム
 | |Author|Title|Year|
 |----|----|----|----|
-|[![](i/cs.png)]()|吉田清哉|ROS2 と Gazebo を用いた転倒防止ロボット歩行車のシミュレーション環境の構築|2025|
+tXGPEuwHPNw
+|[![](https://img.youtube.com/vi/tXGPEuwHPNw/1.jpg)](https://youtu.be/tXGPEuwHPNw)|吉田清哉|ROS2 と Gazebo を用いた転倒防止ロボット歩行車のシミュレーション環境の構築|2025|
 |[![](https://img.youtube.com/vi/rv4mPDYl9ec/1.jpg)](https://www.youtube.com/watch?v=rv4mPDYl9ec)|民輪太洋|ROS2と移動ロボットを用いた屋内巡回ロボットの開発|2023|
 |[![](https://img.youtube.com/vi/490Ygr1DCJU/1.jpg)](https://www.youtube.com/watch?v=490Ygr1DCJU)|森あずさ|利他的行動を利用した弱い通知システムの提案|2022|
 |[![](https://img.youtube.com/vi/HAJLZVi4qDo/1.jpg)](https://www.youtube.com/watch?v=HAJLZVi4qDo)|馬場大誌|掃除ロボットを用いた汚部屋整頓点検システム|2017|
@@ -94,7 +95,6 @@
 ## デジタルガジェット
 | |Author|Title|Year|
 |----|----|----|----|
-|[![](i/cs.png)]()|松井美月| MediaPipe を活用したまばたき視線解析による集中度可視化システムの開発|2025|
 |[![](https://img.youtube.com/vi/Y5y2anuji2w/1.jpg)](https://www.youtube.com/watch?v=Y5y2anuji2w)|吉田匡佑| Pixel Cube: キューブ型ディスプレイ玩具の開発|2023|
 |[![](https://img.youtube.com/vi/fx7UkYwssd8/1.jpg)](https://www.youtube.com/watch?v=fx7UkYwssd8)|市丸航平| 超音波センサーを用いたVDT作業時の姿勢警告システムの開発|2019|
 |[![](https://img.youtube.com/vi/7ZtNTvap6bM/1.jpg)](https://www.youtube.com/watch?v=7ZtNTvap6bM)|村井奈美| Smart Hanger:洋服が着て欲しいとアピールしてくれるハンガー|2018|
