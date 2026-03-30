@@ -22,7 +22,6 @@ HTML5とJavascriptを用いたゲームプログラミング演習を行いま�
 
 [shot・bar](https://web.archive.org/web/20170914070332/http://9leap.net/games/2613/) 
 - ハンドガンとサブマシンガンを使い分けて、バーのボトルをいち早く撃て!!
-- UEI賞を頂き彼はMacBookを賞品としていただいた記憶があります。
 - ![](2613_140.gif)
 
 [ニコ厨叩き](https://web.archive.org/web/20170914070332/http://9leap.net/games/2438/)
